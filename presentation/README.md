@@ -1,8 +1,10 @@
-# Executive Presentation 
+# Executive Presentation
 
-This folder contains the final executive presentation developed for the TravelTide Customer Loyalty Perks Analysis project.
+This presentation summarizes an end-to-end customer analytics project for TravelTide, focused on identifying the most effective loyalty perks to improve customer engagement and retention.
 
-The presentation summarizes:
+Using SQL, Python, and Tableau, customer booking behavior was analyzed, meaningful customer segments were identified, and actionable loyalty program recommendations were developed.
+
+The presentation covers:
 
 - Business problem definition
 - Customer behavior analysis
@@ -11,8 +13,12 @@ The presentation summarizes:
 - Strategic loyalty recommendations
 - Future optimization opportunities
 
-Audience:
-Business stakeholders, product managers, marketing teams, and executive leadership.
+## Audience
+
+- Business stakeholders
+- Product managers
+- Marketing teams
+- Executive leadership
 
 ## Project Objective
 
@@ -44,7 +50,7 @@ This project demonstrates how customer analytics can be translated into actionab
 - Prioritizing marketing investment
 - Improving loyalty program effectiveness
 - Supporting retention-focused decision making
-- Creating a foundation for future personalization and recommendation models
+- Establishing a foundation for future machine learning and personalization initiatives
 
 ## Files
 
