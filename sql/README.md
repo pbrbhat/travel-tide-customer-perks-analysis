@@ -1,36 +1,119 @@
 # SQL Analysis
 
-This folder contains all SQL work performed during the TravelTide Customer Perk Recommendation project.
+This folder contains all SQL analysis performed for the TravelTide Customer Loyalty Perks Optimization project.
 
-## Workflow
+The objective of the SQL phase was to transform raw customer, session, flight, and hotel booking data into a clean analytical dataset that could support customer segmentation, loyalty perk analysis, and dashboard development.
 
-1. Data Understanding
-   - Explore source tables
-   - Understand table grain and structure
+---
 
-2. Data Profiling
-   - Measure dataset scale
-   - Validate customer coverage
-   - Analyze booking activity
+## Business Goal
 
-3. Behavior Analysis
-   - Study customer booking patterns
-   - Measure discount sensitivity
-   - Analyze browsing behavior
+Identify customer behaviors and travel patterns that can help TravelTide improve customer engagement and retention through targeted loyalty perks.
 
-4. Customer Feature Extraction
-   - Create customer-level analytical dataset
-   - Aggregate demographics and travel behavior
+SQL was used to:
 
-5. Data Validation
-   - Validate completeness
-   - Detect extraction issues
-   - Verify customer coverage
+- Understand source data structure
+- Profile customer and booking activity
+- Analyze customer behavior
+- Engineer customer-level features
+- Validate analytical outputs
 
-## Final Output
+---
 
-Customer-level dataset used for:
+## Analysis Workflow
 
-- Customer segmentation
-- Perk recommendation
-- Tableau dashboard development
+### 1. Data Understanding
+
+**File:** `01_data_understanding.sql`
+
+Objectives:
+
+- Explore source tables
+- Understand table relationships
+- Validate table grain
+- Review available attributes
+
+Key Tables:
+
+- users
+- sessions
+- flights
+- hotels
+
+---
+
+### 2. Data Profiling
+
+**File:** `02_data_profiling.sql`
+
+Objectives:
+
+- Measure dataset scale
+- Assess customer coverage
+- Review booking distributions
+- Identify potential data quality issues
+
+---
+
+### 3. Behavioral Analysis
+
+**File:** `03_behavior_analysis.sql`
+
+Objectives:
+
+- Analyze booking patterns
+- Evaluate discount usage
+- Study browsing behavior
+- Understand customer engagement trends
+
+---
+
+### 4. Customer Feature Engineering
+
+**File:** `04_customer_feature_extraction.sql`
+
+Objectives:
+
+- Build customer-level analytical dataset
+- Aggregate travel activity
+- Create segmentation features
+- Prepare data for Python and Tableau analysis
+
+Examples:
+
+- Age Group
+- Travel Frequency
+- Hotel Usage Category
+- Preferred Loyalty Perk
+
+---
+
+### 5. Data Validation
+
+**File:** `05_data_validation.sql`
+
+Objectives:
+
+- Verify row counts
+- Validate customer coverage
+- Check feature completeness
+- Confirm extraction accuracy
+
+---
+
+## Final Deliverable
+
+The SQL workflow produced a customer-level analytical dataset used for:
+
+- Customer Segmentation
+- Loyalty Perk Recommendation Analysis
+- Tableau Dashboard Development
+- Executive Business Presentation
+
+---
+
+## Technology
+
+- PostgreSQL
+- SQL
+- Beekeeper Studio
