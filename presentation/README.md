@@ -1,4 +1,6 @@
-# Executive Presentation
+# Executive Presentation 
+
+![Presentation Cover](presentation_cover.png)
 
 This folder contains the final business presentation delivered for the Masterschool Data Science & Analytics Mastery Project.
 
