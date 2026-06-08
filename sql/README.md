@@ -20,6 +20,27 @@ SQL was used to:
 
 ---
 
+## Dataset Summary
+
+The analytical dataset was built by combining multiple TravelTide source tables:
+
+| Source Table | Purpose |
+|--------------|----------|
+| users | Customer demographics and profile information |
+| sessions | Browsing activity and engagement behavior |
+| flights | Flight booking behavior and travel patterns |
+| hotels | Hotel booking behavior and accommodation preferences |
+
+The final analytical dataset contained approximately:
+
+- 50,000 customers
+- 105,000 flight bookings
+- 105,000 hotel bookings
+
+This consolidated dataset served as the foundation for customer segmentation, loyalty perk analysis, and Tableau dashboard development.
+
+---
+
 ## Analysis Workflow
 
 ### 1. Data Understanding
