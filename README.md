@@ -12,7 +12,7 @@ Using SQL, Python, and Tableau, customer demographics, booking behavior, travel 
 
 View the Tableau dashboard here:
 
-[TravelTide Customer Loyalty Dashboard](PASTE_TABLEAU_PUBLIC_URL_HERE)
+[TravelTide Customer Loyalty Dashboard]([TravelTide Customer Loyalty Dashboard](https://public.tableau.com/views/TravelTide-MasteryProject_FINAL1/ExecutiveOverview?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ---
 
