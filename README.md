@@ -10,9 +10,9 @@ Using SQL, Python, and Tableau, customer demographics, booking behavior, travel 
 
 ## Interactive Dashboard
 
-View the Tableau dashboard here:
+🚀 Explore the Interactive Tableau Dashboard:
 
-[TravelTide Customer Loyalty Dashboard]([TravelTide Customer Loyalty Dashboard](https://public.tableau.com/views/TravelTide-MasteryProject_FINAL1/ExecutiveOverview?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[TravelTide Customer Loyalty Dashboard](https://public.tableau.com/views/TravelTide-MasteryProject_FINAL1/ExecutiveOverview?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
