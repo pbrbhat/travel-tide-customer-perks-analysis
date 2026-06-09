@@ -1,5 +1,7 @@
 # TravelTide Customer Loyalty Perks Optimization
 
+![TravelTide Dashboard](dashboard/executive_overview.png)
+
 End-to-end customer analytics project focused on identifying the most effective loyalty perks to improve customer engagement and retention for TravelTide.
 
 Using SQL, Python, and Tableau, customer demographics, booking behavior, travel patterns, and discount sensitivity were analyzed to develop a customer segmentation framework and loyalty perk recommendation strategy.
