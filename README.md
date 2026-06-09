@@ -6,6 +6,14 @@ Using SQL, Python, and Tableau, customer demographics, booking behavior, travel 
 
 ---
 
+## Interactive Dashboard
+
+View the Tableau dashboard here:
+
+[TravelTide Customer Loyalty Dashboard](PASTE_TABLEAU_PUBLIC_URL_HERE)
+
+---
+
 ## Business Problem
 
 TravelTide offers multiple loyalty incentives including:
